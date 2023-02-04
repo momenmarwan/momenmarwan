@@ -41,7 +41,7 @@
 <!-- <a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="55" /></a>   -->
 <!-- <a href="https://www.figma.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="55" /></a>   -->
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="55" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="55" /></a>  
+<!-- <a href="https://firebase.google.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="55" /></a>   -->
 <!-- <a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="65" /></a>   -->
 <!-- <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="55" /></a>   -->
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="55" /></a>  
